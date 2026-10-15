@@ -38,12 +38,10 @@ Then set these for your environment:
 | --- | --- |
 | [omp-nightshift](https://github.com/charliemartin0/omp-nightshift) | Overnight runner: plans a backlog into chunks and runs them unattended, with retries and draft PRs. Used by the `overnight` skill. |
 | [omp-jev-tier](https://github.com/charliemartin0/omp-jev-tier) | omp extension for Jev-based subagent model tiering and automatic plan mode. |
-| [testscope](https://github.com/charliemartin0/testscope) | Generic e2e test router: picks which tests to run for a change. |
 | [tern-graphite](https://github.com/charliemartin0/tern-graphite) | Tern plugin: Graphite stack view. |
 | [tern-jira](https://github.com/charliemartin0/tern-jira) | Tern plugin: Jira tickets. |
 | [tern-pr-tour](https://github.com/charliemartin0/tern-pr-tour) | Tern plugin: PR walkthrough. |
 | [tern-dir-blocks](https://github.com/charliemartin0/tern-dir-blocks) | Tern plugin: directory blocks. |
-| [tern-overnight](https://github.com/charliemartin0/tern-overnight) | Tern plugin: overnight-run panel. |
 
 ## License
 
